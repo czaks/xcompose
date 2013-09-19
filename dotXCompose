@@ -1067,6 +1067,7 @@ include "%L"
 
 # Sigh.  So many emoji...  I think the first ones I'd go for would be
 # 💡💢💣💤💥💦💧💨💫 (1F4A1-1F4A8 and 1F4AB).  Maybe 1F550-1F567 are useful.  
+
 <Multi_key> <Multi_key> <i> <d> <e> <a>	    : "💡"    U1F4A1 # ELECTRIC LIGHT BULB
 <Multi_key> <Multi_key> <a> <n> <g> <e> <r> : "💢"    U1F4A2 # ANGER SYMBOL
 <Multi_key> <Multi_key> <b> <o> <m> <b>	    : "💣"    U1F4A3 # BOMB
@@ -1118,3 +1119,9 @@ include "%L"
 <Multi_key> <parenleft> <1> <1> <colon> <3> <0> <parenright>     : "🕦" U1F566 # CLOCK FACE ELEVEN-THIRTY
 <Multi_key> <parenleft> <1> <2> <colon> <3> <0> <parenright>     : "🕧" U1F567 # CLOCK FACE TWELVE-THIRTY
 
+<Multi_key> <dollar> <y> : "¥" U00A5 # YEN
+<Multi_key> <dollar> <e> : "€" U20AC # EURO
+<Multi_key> <dollar> <b> : "฿" U0E3F # THAI BAHT / BITCOIN
+<Multi_key> <dollar> <c> : "¢" U00A2 # CENT
+<Multi_key> <dollar> <o> : "¤" U00A4 # GENERIC CURRENCY SIGN
+<Multi_key> <dollar> <l> : "£" U00A3 # POUND
