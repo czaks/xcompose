@@ -596,6 +596,7 @@ include "%L"
 <Multi_key> <Multi_key> <f> <d> <l>   	        : "⚜"	U269C	  # FLEUR-DE-LIS
 <Multi_key> <Multi_key> <a> <t> <o> <m>	        : "⚛"	U269B		# ATOM SYMBOL
 <Multi_key> <Multi_key> <c> <c> <c> <p>		: "☭" 	U262D		# HAMMER AND SICKLE
+<Multi_key> <Multi_key> <s> <w> <a>		: "卐" 	U534D		# SWASTIKA
 <Multi_key> <slash> <exclam> <backslash> : "⚠"  U26A0           # WARNING SIGN
 <Multi_key> <exclam> <asciicircum>	: "⚠"	U26A0		# WARNING SIGN 
 <Multi_key> <Multi_key> <z> <a> <p>	  		: "⚡"	U26A1		# HIGH VOLTAGE SIGN 
